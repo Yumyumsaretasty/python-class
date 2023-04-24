@@ -8,5 +8,5 @@ name = 'Dana'
 print(name)
 i_string = '1'
 print(name + I)
-print(name + I + i_string)
+print(name + I + i_string + name + I + i_string +name + I + i_string)
 #monkeys
