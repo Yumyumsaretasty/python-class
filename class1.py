@@ -11,3 +11,4 @@ print(name + I)
 print(name + I + i_string + name + I + i_string +name + I + i_string)
 #monkeys
 #jojo is donkey kong
+#random note for homework 
